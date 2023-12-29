@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: images/logo_food_order.png
+
+  android_12:
+    color: "#FFFFFF"
+    image: images/logo_food_order.png
+
+  web: false
